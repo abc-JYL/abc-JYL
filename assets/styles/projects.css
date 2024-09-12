@@ -1,0 +1,10 @@
+.listprojects {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.listbox {
+    border-style: solid;
+    text-align: center;
+    width: 300px;
+}
