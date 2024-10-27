@@ -1,10 +1,18 @@
 .listprojects {
-    display: flex;
-    text-align: center;
-    justify-content: center;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	color: white;
 }
 .listbox {
-    border-style: solid;
-    text-align: center;
-    width: 300px;
+	border-style: solid;
+	text-align: center;
+	width: 300px;
 }
+body {
+	background-color: rgb(24, 24, 24);
+}
+h1 {
+	color: white;
+}
+
